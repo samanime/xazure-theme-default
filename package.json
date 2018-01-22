@@ -1,6 +1,6 @@
 {
   "name": "xazure-theme-default",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A default theme for Xazure framework's xazure-module-theme.",
   "main": "dist",
   "scripts": {
